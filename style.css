@@ -1,3 +1,7 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
 .bgColor{
     background-color: #fceae8;
 }
@@ -16,4 +20,7 @@
 }
 .bgColorS{
 background-color: orchid;
+}
+.inputBox{
+    width: 300px;
 }
