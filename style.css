@@ -11,3 +11,9 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.bgColorP{
+    background-color: orange;
+}
+.bgColorS{
+background-color: orchid;
+}
